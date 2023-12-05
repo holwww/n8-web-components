@@ -1,0 +1,14 @@
+{
+  "name": "forge-webcomponents",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
